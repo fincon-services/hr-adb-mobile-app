@@ -1,0 +1,4 @@
+/Users/nooranis/Documents/Projects/Fincon/ERPAPP/android/app/.cxx/Debug/5de3c72f/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/nooranis/Documents/Projects/Fincon/ERPAPP/android/app/.cxx/Debug/5de3c72f/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/nooranis/Documents/Projects/Fincon/ERPAPP/android/app/.cxx/Debug/5de3c72f/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/nooranis/Documents/Projects/Fincon/ERPAPP/android/app/.cxx/Debug/5de3c72f/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
